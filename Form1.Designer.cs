@@ -121,7 +121,7 @@
 			this.btnThread1.TabIndex = 11;
 			this.btnThread1.Text = "вар-т 1";
 			this.btnThread1.UseVisualStyleBackColor = true;
-			this.btnThread1.Click += new System.EventHandler(this.btnThread1_Click);
+			this.btnThread1.Click += new System.EventHandler(this.btnThread_Click);
 			// 
 			// btnThread2
 			// 
@@ -131,7 +131,7 @@
 			this.btnThread2.TabIndex = 12;
 			this.btnThread2.Text = "вар-т 2";
 			this.btnThread2.UseVisualStyleBackColor = true;
-			this.btnThread2.Click += new System.EventHandler(this.btnThread2_Click);
+			this.btnThread2.Click += new System.EventHandler(this.btnThread_Click);
 			// 
 			// btnThread3
 			// 
@@ -141,7 +141,7 @@
 			this.btnThread3.TabIndex = 13;
 			this.btnThread3.Text = "вар-т 3";
 			this.btnThread3.UseVisualStyleBackColor = true;
-			this.btnThread3.Click += new System.EventHandler(this.btnThread3_Click);
+			this.btnThread3.Click += new System.EventHandler(this.btnThread_Click);
 			// 
 			// txtBgw
 			// 
@@ -197,7 +197,7 @@
 			this.btmTask_TCS.TabIndex = 20;
 			this.btmTask_TCS.Text = "Поехали";
 			this.btmTask_TCS.UseVisualStyleBackColor = true;
-			this.btmTask_TCS.Click += new System.EventHandler(this.btmTask_TCS_Click);
+			this.btmTask_TCS.Click += new System.EventHandler(this.btnTask_TCS_Click);
 			// 
 			// label5
 			// 
